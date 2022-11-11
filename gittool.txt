@@ -1,0 +1,24 @@
+what is git cherry pick
+    git cherry-pick is a powerful command that enables arbitrary Git commits  
+    to be picked by reference and appended to the current working HEAD.
+
+3. what is git revert
+    The git revert command is a forward-moving undo operation that offers a safe method of undoing changes.
+
+4. what is git rebase
+     Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+
+5. what is git reset
+     To review, git reset is a powerful command that is used to undo local changes to the state of a Git repo.
+
+6. difference between git pull request and merge request
+   A Git pull request is essentially the same as a Git merge request. Both requests achieve the same result: 
+   merging a developer's branch with the project's master or main branch. Their difference lies in which site 
+   they are used; GitHub uses the Git pull request, and GitLab uses the Git merge request.
+
+7. what is git checkout
+    The git checkout command lets you navigate between the branches created by git branch . 
+
+8. what is git stash
+    git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on 
+    something else, and then come back and re-apply them later on.
